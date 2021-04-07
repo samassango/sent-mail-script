@@ -1,0 +1,13 @@
+{
+    "name": "sbumassango/sent-mail-script",
+    "description": "Sending emails",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "samassango",
+            "email": "samassango@gmail.com"
+        }
+    ]
+}
